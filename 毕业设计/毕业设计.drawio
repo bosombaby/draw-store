@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T15:03:12.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="y8Tf-58d779Ik8Fmzyo5" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-28T15:06:35.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="d6rwixYYEMof7G3USB8t" version="23.0.2" type="github" pages="4">
   <diagram name="初始用例图" id="rtrpxE1vS2OcSsSJXhOX">
     <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,10 +150,10 @@
           <mxGeometry y="26" width="160" height="94" as="geometry" />
         </mxCell>
         <mxCell id="Cg3z2af3cBGB2XmaHswn-25" value="闯关记录表" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#993150;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
-          <mxGeometry x="400" width="160" height="160" as="geometry" />
+          <mxGeometry x="400" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Cg3z2af3cBGB2XmaHswn-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;闯关记录 id&lt;br&gt;用户 id&lt;br&gt;关卡 id&lt;br&gt;开始时间&lt;br&gt;结束时间&lt;br&gt;闯关结果&lt;br&gt;得分&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="Cg3z2af3cBGB2XmaHswn-25">
-          <mxGeometry y="26" width="160" height="134" as="geometry" />
+        <mxCell id="Cg3z2af3cBGB2XmaHswn-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;闯关记录 id&lt;br&gt;用户 id&lt;br&gt;关卡 id&lt;br&gt;开始时间&lt;br&gt;结束时间&lt;br&gt;闯关结果&lt;br&gt;得分&lt;br&gt;评分标准id&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="Cg3z2af3cBGB2XmaHswn-25">
+          <mxGeometry y="26" width="160" height="144" as="geometry" />
         </mxCell>
         <mxCell id="Cg3z2af3cBGB2XmaHswn-27" value="勋章表" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#993150;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
           <mxGeometry y="400" width="160" height="140" as="geometry" />
@@ -182,10 +182,16 @@
           <mxGeometry y="26" width="160" height="144" as="geometry" />
         </mxCell>
         <mxCell id="-a9WjqwjeRyjGx5Wh1uh-1" value="角色表" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#993150;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-a9WjqwjeRyjGx5Wh1uh-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;角色 id&lt;br&gt;权限模块&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="-a9WjqwjeRyjGx5Wh1uh-1">
           <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-a9WjqwjeRyjGx5Wh1uh-6" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;edgeStyle=none;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="120" as="sourcePoint" />
+            <mxPoint x="320" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
