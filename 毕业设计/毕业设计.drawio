@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T14:31:08.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uIdTQC6aiPzsa0rxgPak" version="23.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T14:32:24.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="J6y9bJ3lI9NrUway2kC1" version="23.0.2" type="github" pages="3">
   <diagram name="初始用例图" id="rtrpxE1vS2OcSsSJXhOX">
     <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,10 +143,16 @@
         <mxCell id="Cg3z2af3cBGB2XmaHswn-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关卡 id&lt;br&gt;学科 id&lt;br&gt;关卡名称&lt;br&gt;描述&lt;br&gt;难度等级&lt;br&gt;分数区间&lt;br&gt;勋章 id&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="Cg3z2af3cBGB2XmaHswn-21">
           <mxGeometry y="26" width="160" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="Cg3z2af3cBGB2XmaHswn-23" value="关卡表" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#993150;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="160" height="160" as="geometry" />
+        <mxCell id="Cg3z2af3cBGB2XmaHswn-23" value="题目表" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#993150;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Cg3z2af3cBGB2XmaHswn-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关卡 id&lt;br&gt;学科 id&lt;br&gt;关卡名称&lt;br&gt;描述&lt;br&gt;难度等级&lt;br&gt;分数区间&lt;br&gt;勋章 id&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="Cg3z2af3cBGB2XmaHswn-23">
+        <mxCell id="Cg3z2af3cBGB2XmaHswn-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;题目 id&lt;br&gt;关卡 id&lt;br&gt;题目内容&lt;br&gt;答案&lt;br&gt;评分 id&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="Cg3z2af3cBGB2XmaHswn-23">
+          <mxGeometry y="26" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg3z2af3cBGB2XmaHswn-25" value="关卡表" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#993150;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
+          <mxGeometry x="400" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg3z2af3cBGB2XmaHswn-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关卡 id&lt;br&gt;学科 id&lt;br&gt;关卡名称&lt;br&gt;描述&lt;br&gt;难度等级&lt;br&gt;分数区间&lt;br&gt;勋章 id&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="Cg3z2af3cBGB2XmaHswn-25">
           <mxGeometry y="26" width="160" height="134" as="geometry" />
         </mxCell>
       </root>
