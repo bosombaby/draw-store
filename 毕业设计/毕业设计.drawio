@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T08:59:24.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GU4WzdR3tF4vlTscYKNa" version="24.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-10T08:59:48.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pGE9zlNkKT5XS-4086z6" version="24.0.0" type="github" pages="7">
   <diagram name="初始用例图" id="rtrpxE1vS2OcSsSJXhOX">
     <mxGraphModel dx="1235" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dVYIK8Zdpi55JhBZHcGd-2" value="空&lt;br&gt;间&lt;br&gt;思&lt;br&gt;维&lt;br&gt;训&lt;br&gt;练&lt;br&gt;平&lt;br&gt;台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="160" width="50" height="360" as="geometry" />
+          <mxGeometry x="190" y="160" width="50" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Pq7pCf8MzaEO5AQIviZg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="360" height="40" as="geometry" />
