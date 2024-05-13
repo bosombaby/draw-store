@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T02:21:59.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2tLWIsWQFS9AP8-vgrT5" version="24.4.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-05-13T02:27:39.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cmbfuWaSYVrdaif06lau" version="24.4.0" type="github" pages="8">
   <diagram name="初始用例图" id="rtrpxE1vS2OcSsSJXhOX">
     <mxGraphModel dx="875" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -737,6 +737,15 @@
         </mxCell>
         <mxCell id="k3DNnKLUTX2GjG9_WkSA-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="k3DNnKLUTX2GjG9_WkSA-7" target="k3DNnKLUTX2GjG9_WkSA-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3DNnKLUTX2GjG9_WkSA-29" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;游戏化学习与闯关&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="346" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k3DNnKLUTX2GjG9_WkSA-30" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;实时模型视角反馈&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k3DNnKLUTX2GjG9_WkSA-31" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;闯关反馈与奖励&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=7;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="225" width="80" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
