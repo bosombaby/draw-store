@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T09:36:38.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="C8OWXrnBXJFzOKFRCc3f" version="24.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-13T09:44:38.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="U80f5ATjXxwuTechVAy9" version="24.4.0" type="github" pages="12">
   <diagram id="_g8JoBiRNWQO71cFG7Wk" name="全局流程图">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -960,7 +960,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZjGXxDgMILDGTe1oN5c-" name="状态图">
-    <mxGraphModel dx="292" dy="145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -972,11 +972,11 @@
         </mxCell>
         <mxCell id="oPLR1HeqOL8d7GCFD6uH-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="oPLR1HeqOL8d7GCFD6uH-2" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="180" as="targetPoint" />
+            <mxPoint x="300" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oPLR1HeqOL8d7GCFD6uH-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="120" width="30" height="40" as="geometry" />
+        <mxCell id="oPLR1HeqOL8d7GCFD6uH-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;开始闯关&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="119" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
