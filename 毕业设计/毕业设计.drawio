@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T03:24:20.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RFSnzWiEecSBKZCL8Cmz" version="24.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-14T03:29:43.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WndTEnypNmwlO2b59a-X" version="24.4.0" type="github" pages="12">
   <diagram id="_g8JoBiRNWQO71cFG7Wk" name="全局流程图">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -975,7 +975,7 @@
             <mxPoint x="300" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oPLR1HeqOL8d7GCFD6uH-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;开始闯关&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="oPLR1HeqOL8d7GCFD6uH-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;开始闯关&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="295" y="125" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oPLR1HeqOL8d7GCFD6uH-6" value="浏览关卡" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
@@ -987,17 +987,23 @@
         <mxCell id="5id5hUfe6cR8XL0VLmz1-1" value="选择关卡" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5id5hUfe6cR8XL0VLmz1-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户点击闯关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-1">
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户选择关卡&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-1">
           <mxGeometry y="30" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5id5hUfe6cR8XL0VLmz1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oPLR1HeqOL8d7GCFD6uH-7" target="5id5hUfe6cR8XL0VLmz1-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5id5hUfe6cR8XL0VLmz1-4" value="查看闯关记录" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="100" height="50" as="geometry" />
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5id5hUfe6cR8XL0VLmz1-4" target="5id5hUfe6cR8XL0VLmz1-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5id5hUfe6cR8XL0VLmz1-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户点击闯关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-4">
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-4" value="查看闯关记录" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/查看闯关记录&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-4">
           <mxGeometry y="30" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-26" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户点击闯关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-4">
+          <mxGeometry y="50" width="100" as="geometry" />
         </mxCell>
         <mxCell id="5id5hUfe6cR8XL0VLmz1-6" value="开始闯关" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="100" height="50" as="geometry" />
@@ -1005,10 +1011,13 @@
         <mxCell id="5id5hUfe6cR8XL0VLmz1-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户点击闯关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-6">
           <mxGeometry y="30" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5id5hUfe6cR8XL0VLmz1-8" value="关卡暂存" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="350" width="100" height="50" as="geometry" />
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5id5hUfe6cR8XL0VLmz1-8" target="5id5hUfe6cR8XL0VLmz1-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5id5hUfe6cR8XL0VLmz1-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户点击闯关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-8">
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-8" value="关卡暂存" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户暂存答案&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-8">
           <mxGeometry y="30" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5id5hUfe6cR8XL0VLmz1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5id5hUfe6cR8XL0VLmz1-2" target="5id5hUfe6cR8XL0VLmz1-6">
@@ -1023,13 +1032,13 @@
         <mxCell id="5id5hUfe6cR8XL0VLmz1-13" value="提交答案" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="440" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5id5hUfe6cR8XL0VLmz1-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户点击闯关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-13">
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/提交选择答案&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-13">
           <mxGeometry y="30" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5id5hUfe6cR8XL0VLmz1-15" value="反馈系统" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="530" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5id5hUfe6cR8XL0VLmz1-16" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/用户点击闯关&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-15">
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-16" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Do/系统反馈结果&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5id5hUfe6cR8XL0VLmz1-15">
           <mxGeometry y="30" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5id5hUfe6cR8XL0VLmz1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5id5hUfe6cR8XL0VLmz1-7" target="5id5hUfe6cR8XL0VLmz1-13">
@@ -1040,6 +1049,21 @@
         </mxCell>
         <mxCell id="5id5hUfe6cR8XL0VLmz1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5id5hUfe6cR8XL0VLmz1-16" target="oPLR1HeqOL8d7GCFD6uH-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;闯关结束&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="584.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-28" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;重新闯关&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-29" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;重新闯关&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;提交完成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="500" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5id5hUfe6cR8XL0VLmz1-31" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;闯关完成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="410" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
