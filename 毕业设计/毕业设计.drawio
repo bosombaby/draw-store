@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T07:53:47.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PbbDfmCW6QCmkBq5Rw1h" version="24.4.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-05-15T07:54:51.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KFhR9Un6ic80P-Yz9wNz" version="24.4.0" type="github" pages="16">
   <diagram id="_g8JoBiRNWQO71cFG7Wk" name="全局流程图">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1289,7 +1289,7 @@
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="sqGX9QYfwbGYkG5BsiUu-16" target="sqGX9QYfwbGYkG5BsiUu-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sqGX9QYfwbGYkG5BsiUu-16" value="是否操作模型？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
+        <mxCell id="sqGX9QYfwbGYkG5BsiUu-16" value="是否操作地球？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-17" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1329,7 +1329,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-29" value="交互反馈" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="740" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="750" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="sqGX9QYfwbGYkG5BsiUu-32" target="sqGX9QYfwbGYkG5BsiUu-33">
           <mxGeometry relative="1" as="geometry" />
