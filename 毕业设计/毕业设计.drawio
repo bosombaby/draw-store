@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T07:48:30.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="AIx3liRYMXZayk7zEuah" version="24.4.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-05-15T07:53:47.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PbbDfmCW6QCmkBq5Rw1h" version="24.4.0" type="github" pages="16">
   <diagram id="_g8JoBiRNWQO71cFG7Wk" name="全局流程图">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1295,7 +1295,7 @@
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-17" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sqGX9QYfwbGYkG5BsiUu-18" value="模型默认展示" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
+        <mxCell id="sqGX9QYfwbGYkG5BsiUu-18" value="默认显示地球" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
           <mxGeometry x="360" y="495" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-19" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1304,19 +1304,19 @@
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="sqGX9QYfwbGYkG5BsiUu-21" target="sqGX9QYfwbGYkG5BsiUu-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sqGX9QYfwbGYkG5BsiUu-21" value="平移" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
+        <mxCell id="sqGX9QYfwbGYkG5BsiUu-21" value="视图切换" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
           <mxGeometry y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="sqGX9QYfwbGYkG5BsiUu-23" target="sqGX9QYfwbGYkG5BsiUu-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sqGX9QYfwbGYkG5BsiUu-23" value="旋转" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
+        <mxCell id="sqGX9QYfwbGYkG5BsiUu-23" value="底图切换" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
           <mxGeometry x="120" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="sqGX9QYfwbGYkG5BsiUu-25" target="sqGX9QYfwbGYkG5BsiUu-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sqGX9QYfwbGYkG5BsiUu-25" value="缩放" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
+        <mxCell id="sqGX9QYfwbGYkG5BsiUu-25" value="模型漫游" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFD1;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sqGX9QYfwbGYkG5BsiUu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="sqGX9QYfwbGYkG5BsiUu-27" target="sqGX9QYfwbGYkG5BsiUu-29">
