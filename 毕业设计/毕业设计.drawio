@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T17:16:08.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gbMeJcIZkYPxDH0xLyPy" version="24.4.9" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-06-03T00:49:29.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="M5Mp8dUnhECA9VC0w_aD" version="24.4.9" type="github" pages="16">
   <diagram id="_g8JoBiRNWQO71cFG7Wk" name="全局流程图">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,7 +310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u-h4jSF2ckMR5b7aAtAA" name="系统结构设计">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,7 +320,7 @@
         <mxCell id="Pq7pCf8MzaEO5AQIviZg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pq7pCf8MzaEO5AQIviZg-3" value="基础设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="Pq7pCf8MzaEO5AQIviZg-3" value="基础设施层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="680" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pq7pCf8MzaEO5AQIviZg-6" value="操作系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=13;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
@@ -338,7 +338,7 @@
         <mxCell id="Pq7pCf8MzaEO5AQIviZg-10" value="缓存管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=13;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="375" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pq7pCf8MzaEO5AQIviZg-11" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="Pq7pCf8MzaEO5AQIviZg-11" value="数据持久层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="680" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pq7pCf8MzaEO5AQIviZg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
@@ -356,10 +356,10 @@
         <mxCell id="Pq7pCf8MzaEO5AQIviZg-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="230" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pq7pCf8MzaEO5AQIviZg-18" value="业务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="Pq7pCf8MzaEO5AQIviZg-18" value="业务逻辑层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="680" y="300" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pq7pCf8MzaEO5AQIviZg-19" value="页面层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="Pq7pCf8MzaEO5AQIviZg-19" value="页面展示层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="680" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pq7pCf8MzaEO5AQIviZg-20" value="PC 页面" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=13;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
