@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T00:49:29.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="M5Mp8dUnhECA9VC0w_aD" version="24.4.9" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-06-03T04:31:14.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cs4h6ulA5uZ0BuajM-Yx" version="24.4.9" type="github" pages="16">
   <diagram id="_g8JoBiRNWQO71cFG7Wk" name="全局流程图">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -396,7 +396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ffQJIy1NcuLkBooQNgw" name="功能结构设计">
-    <mxGraphModel dx="1877" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,9 +419,6 @@
           <mxGeometry x="320" y="110" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;fillColor=#FFFFD1;endFill=0;" parent="1" source="2IXOXTEknfEipe1xogkx-1" target="mNAF8PrHSZLM9pv5cyrD-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mNAF8PrHSZLM9pv5cyrD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;fillColor=#FFFFD1;endFill=0;" parent="1" source="2IXOXTEknfEipe1xogkx-1" target="mNAF8PrHSZLM9pv5cyrD-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;fillColor=#FFFFD1;endFill=0;" parent="1" source="2IXOXTEknfEipe1xogkx-1" target="mNAF8PrHSZLM9pv5cyrD-15" edge="1">
@@ -487,14 +484,11 @@
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-4" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mNAF8PrHSZLM9pv5cyrD-13" value="用&lt;br style=&quot;font-size: 15px;&quot;&gt;户&lt;br style=&quot;font-size: 15px;&quot;&gt;注&lt;br style=&quot;font-size: 15px;&quot;&gt;册" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="360" width="40" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-14" value="用&lt;br style=&quot;font-size: 15px;&quot;&gt;户&lt;br style=&quot;font-size: 15px;&quot;&gt;登&lt;br style=&quot;font-size: 15px;&quot;&gt;录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="360" width="40" height="100" as="geometry" />
+          <mxGeometry y="360" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-15" value="账&lt;br&gt;号&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="360" width="40" height="100" as="geometry" />
+          <mxGeometry x="80" y="360" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-20" value="课&lt;br&gt;程&lt;br&gt;列&lt;br&gt;表" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="165" y="360" width="40" height="100" as="geometry" />
