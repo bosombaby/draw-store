@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T14:15:49.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wqzkn30KljYiA4mDc_t1" version="24.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-06-11T14:17:32.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="crhEOoV9V2c4A9Qd048w" version="24.5.2" type="github" pages="16">
   <diagram id="_g8JoBiRNWQO71cFG7Wk" name="全局流程图">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,7 +390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ffQJIy1NcuLkBooQNgw" name="功能结构设计">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,7 +419,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2IXOXTEknfEipe1xogkx-1" value="登录模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="70" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;fillColor=#FFFFD1;endFill=0;" parent="1" source="mNAF8PrHSZLM9pv5cyrD-1" target="mNAF8PrHSZLM9pv5cyrD-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -434,7 +434,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-1" value="学习模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="234" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;fillColor=#FFFFD1;endFill=0;" parent="1" source="mNAF8PrHSZLM9pv5cyrD-2" target="mNAF8PrHSZLM9pv5cyrD-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -464,7 +464,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-3" value="管理模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="635" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="625" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#942A46;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;fillColor=#FFFFD1;endFill=0;" parent="1" source="mNAF8PrHSZLM9pv5cyrD-4" target="mNAF8PrHSZLM9pv5cyrD-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -476,58 +476,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-4" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="855" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="838" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-14" value="用&lt;br style=&quot;font-size: 15px;&quot;&gt;户&lt;br style=&quot;font-size: 15px;&quot;&gt;登&lt;br style=&quot;font-size: 15px;&quot;&gt;录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="70" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-15" value="账&lt;br&gt;号&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="120" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-20" value="课&lt;br&gt;程&lt;br&gt;列&lt;br&gt;表" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="165" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="180" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-21" value="官&lt;br&gt;方&lt;br&gt;案&lt;br&gt;例" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="215" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="230" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-22" value="立&lt;br&gt;体&lt;br&gt;交&lt;br&gt;互" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="265" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="280" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-23" value="趣&lt;br&gt;味&lt;br&gt;游&lt;br&gt;戏" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="315" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="330" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-28" value="关&lt;br&gt;卡&lt;br&gt;设&lt;br&gt;计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="390" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-29" value="反&lt;br&gt;馈&lt;br&gt;系&lt;br&gt;统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-30" value="荣&lt;br&gt;誉&lt;br&gt;排&lt;br&gt;名" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="500" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="490" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-34" value="系&lt;br&gt;统&lt;br&gt;设&lt;br&gt;置" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="560" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="550" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-35" value="数&lt;br&gt;据&lt;br&gt;分&lt;br&gt;析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="600" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-36" value="用&lt;br&gt;户&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="660" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="650" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-37" value="内&lt;br&gt;容&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="710" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="700" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-38" value="关&lt;br&gt;卡&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="760" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="750" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-44" value="学&lt;br&gt;习&lt;br&gt;记&lt;br&gt;录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="880" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="863" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-45" value="个&lt;br&gt;人&lt;br&gt;信&lt;br&gt;息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="820" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="810" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mNAF8PrHSZLM9pv5cyrD-46" value="我&lt;br&gt;的&lt;br&gt;成&lt;br&gt;就" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#942A46;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="940" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="913" y="360" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
