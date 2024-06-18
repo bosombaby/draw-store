@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T13:13:00.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IWXFrOMtaYRq_x1Dwqaa" version="24.4.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-18T02:27:22.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1KQVrOgbqvhBGeA2rEH_" version="24.5.4" type="github" pages="3">
   <diagram name="Layout 布局" id="GRu9HqfQKLAJjOfJqACp">
     <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,14 @@
         <mxCell id="q9yxCxPNA0dilJTOdDjA-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.129;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="S69w7H9dUjlL0xEa4tU5-3" target="q9yxCxPNA0dilJTOdDjA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aEhBWWNrwo7zcX4liLc3" name="功能模块">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
